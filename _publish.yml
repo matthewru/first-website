@@ -1,6 +1,4 @@
 - source: project
   quarto-pub:
-    - id: 0480fbea-d2ea-411a-b6f4-7e323a4356ce
-      url: 'https://matthewru.quarto.pub/matthewru'
     - id: b1e747d9-14a8-4e18-a6ec-71bf890aca4c
       url: 'https://matthewru.quarto.pub/first-website'
