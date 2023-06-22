@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Matthew, I go to Naperville North High School and I enjoy computer science."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "first-website",
@@ -7,10 +14,17 @@
     "text": "mtcars |&gt; \n  select(mpg, wt) |&gt; \n  ggplot(aes(wt, mpg)) +\n  geom_point() +\n  geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) + theme_clean() +\n  labs(title = \"Fuel Efficiency and Weight\",\n       subtitle = \"Heavier cars are less fuel efficient\", \n       x = \"Weight (1000s of lbs)\", \n       y = \"MPG\", \n       caption = \"Henderson and Vellerman (1981)\")"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Matthew, I go to Naperville North High School and I enjoy computer science."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nThis First Website Project contains many different plots to help me get familiar with Quarto websites.\n\nGoals\n\nMake use of more of the mtcars data\nAdd more pictures to the website\n\nNeed to learn how to import pictures\n\n\n“This is data science”\n~Preceptor\n“Kane’s Free Data Science Bootcamp”"
   }
 ]

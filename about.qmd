@@ -2,8 +2,22 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+My name is **Matthew**, I go to Naperville North High School and I enjoy computer science.
+
+## About the Project
+
+This *First Website Project* contains many different plots to help me get familiar with Quarto websites.
+
+### Goals
+- Make use of more of the mtcars data
+- Add more pictures to the website
+  + Need to learn how to import pictures
+  
+  
+"This is data science"
+\
+~Preceptor
+
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)
